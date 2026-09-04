@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>EthWallet.Core</RootNamespace>
+    <AssemblyName>EthWallet.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
